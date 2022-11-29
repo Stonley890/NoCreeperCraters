@@ -11,7 +11,7 @@ public class App extends JavaPlugin implements Listener {
     public void onEnable() {
 
         getLogger()
-                .info("For u/Lupich by u/Stonley890");
+                .info("Designed for u/Lupich by u/Stonley890");
         getServer().getPluginManager().registerEvents(this, this);
 
     }
