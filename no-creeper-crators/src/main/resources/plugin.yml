@@ -1,6 +1,6 @@
 main: io.github.stonley890.App
 name: NoCreeperCraters
-version: 1.0
+version: 1.0.1
 api-version: 1.19
 description: A plugin that stops Creepers from destroying blocks.
 author: Stonley890
